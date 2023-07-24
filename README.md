@@ -7,7 +7,12 @@
 
      npm install 
 
-2.2 : Run the React app using following command
+2:2 Please add .env file in server folder and following key in it
+
+     API_KEY  = sJKHMB_VF9sNBfVAM1GmQgys5rCVaV2q // adding my key to test , will remove after 7 days 
+     PORT=8080
+
+2.3 : Run the React app using following command
 
      npm start
     
